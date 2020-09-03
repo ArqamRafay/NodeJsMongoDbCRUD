@@ -1,0 +1,6 @@
+Test applying branch concept and applying multiple command Such as:
+git branch	// to view all branch
+git checkout -b branchName	//to create new branch and switch to that branch
+git checkOut BranchName	// switch to that branch
+
+
